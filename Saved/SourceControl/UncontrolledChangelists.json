@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/M_Projectil.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/M_Projectile.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/M_HealthPack.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/M_Enemy.uasset"
+			]
+		}
+	]
+}
